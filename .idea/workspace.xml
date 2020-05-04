@@ -3,23 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/appLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/adaptive/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/ProductList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/productList/ProductList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/main/Main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/main/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/main/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/categoryNav/CategoryNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNav/CategoryNav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/categoryNav/CategoryNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNav/CategoryNav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/categoryNav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNav/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/ProductList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productList/ProductList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/ProductList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productList/ProductList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productList/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +55,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Enell\IdeaProjects\proof\src\components\adaptive" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -82,22 +79,38 @@
       <option name="project" value="LOCAL" />
       <updated>1588604916186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main page layout">
+      <created>1588607023099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588607023099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="components architecture and router" />
-    <option name="LAST_COMMIT_MESSAGE" value="components architecture and router" />
+    <MESSAGE value="main page layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="main page layout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588604915685">
+    <state x="233" y="19" key="#Scopes" timestamp="1588608499205">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588604915685" />
+    <state x="233" y="19" key="#Scopes/0.0.1280.720@0.0.1280.720" timestamp="1588608499205" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588607022666">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588607022666" />
     <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1588601370864">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588601370864" />
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1588607025685">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1588607025685" />
     <state x="297" y="161" key="run.anything.popup" timestamp="1588604351233">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
