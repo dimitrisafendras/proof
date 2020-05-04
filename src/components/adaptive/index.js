@@ -1,3 +1,3 @@
 export { AppLayout } from './appLayout';
-export { ProductList } from './productList';
-export { CategoryNav } from './categoryNav';
+export { ProductListLayout } from './productListLayout';
+export { CategoryNavLayout } from './categoryNavLayout';

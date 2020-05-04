@@ -3,15 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNav/CategoryNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNav/CategoryNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/adaptive/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/productList/ProductList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/productList/ProductList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/productList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/categoryNav/CategoryNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNav/CategoryNav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/categoryNav/CategoryNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNav/CategoryNav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/categoryNav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNav/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/ProductList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productList/ProductList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/ProductList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productList/ProductList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/productList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,31 +87,39 @@
       <option name="project" value="LOCAL" />
       <updated>1588607023099</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor">
+      <created>1588608530801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588608530801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="components architecture and router" />
     <MESSAGE value="main page layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="main page layout" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Scopes" timestamp="1588608499205">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Scopes/0.0.1280.720@0.0.1280.720" timestamp="1588608499205" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588607022666">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588608530398">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588607022666" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588608530398" />
     <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1588601370864">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588601370864" />
-    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1588607025685">
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1588609484506">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1588607025685" />
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1588609484506" />
     <state x="297" y="161" key="run.anything.popup" timestamp="1588604351233">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
