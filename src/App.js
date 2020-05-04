@@ -1,26 +1,60 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import {map} from 'lodash-es';
+import { v1 } from 'uuid';
+import {
+  BrowserRouter as Router,
+  Route,
+  Link
+} from "react-router-dom";
+import {routes} from './routes';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Router>
+      <div>
+        <ul>
+          <li>
+            <Link to="/">ProductList</Link>
+          </li>
+          <li>
+            <Link to="/CategoryNav">CategoryNav</Link>
+          </li>
+        </ul>
+      </div>
+      {map(routes, (page, url) =>
+        <Route exact
+               path={url}
+               component={page.component}
+               key={v1()}
+        />
+      )}
+    </Router>
+  );
+}
+
+// You can think of these components as "pages"
+// in your app.
+
+function Home() {
+  return (
+    <div>
+      <h2>Home</h2>
     </div>
   );
 }
 
-export default App;
+function About() {
+  return (
+    <div>
+      <h2>About</h2>
+    </div>
+  );
+}
+
+function Dashboard() {
+  return (
+    <div>
+      <h2>Dashboard</h2>
+    </div>
+  );
+}

@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="" />
+    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adaptive/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/categoryNav/CategoryNav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/categoryNav/CategoryNav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/categoryNav/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/productList/ProductList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/productList/ProductList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/productList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/main/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="React File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bGSYzZ8vH1QYEWTdWPKW4N4Wwc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -19,6 +68,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myBoilerPlate" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -35,5 +86,15 @@
       <workItem from="1588256991390" duration="1000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1588601370864">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588601370864" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1588604351233">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1588604351233" />
   </component>
 </project>
