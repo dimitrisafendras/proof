@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/adaptive/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/adaptive/loginLayout/LoginLayout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/adaptive/loginLayout/LoginLayout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/adaptive/loginLayout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/card/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/card/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/text/Text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/text/Text.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/responsive/text/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proof.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proof.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/loginLayout/LoginLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/loginLayout/LoginLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/loginLayout/LoginLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/loginLayout/LoginLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/card/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/card/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/text/Text.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/text/Text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/text/Text.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/text/Text.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,33 +85,53 @@
       <workItem from="1588256991390" duration="1000" />
       <workItem from="1588273260997" duration="829000" />
       <workItem from="1588573307562" duration="715000" />
-      <workItem from="1588592743158" duration="1267000" />
+      <workItem from="1588592743158" duration="5693000" />
     </task>
+    <task id="LOCAL-00001" summary="components">
+      <created>1588595371755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588595371756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="components" />
+    <option name="LAST_COMMIT_MESSAGE" value="components" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588594817829">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1588594817829" />
-    <state width="1237" height="175" key="GridCell.Tab.0.bottom" timestamp="1588595275113">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588595371230">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588595275113" />
-    <state width="1237" height="175" key="GridCell.Tab.0.center" timestamp="1588595275113">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588595371230" />
+    <state width="1237" height="174" key="GridCell.Tab.0.bottom" timestamp="1588597632615">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588595275113" />
-    <state width="1237" height="175" key="GridCell.Tab.0.left" timestamp="1588595275113">
+    <state width="1237" height="174" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588597632615" />
+    <state width="1237" height="174" key="GridCell.Tab.0.center" timestamp="1588597632615">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588595275113" />
-    <state width="1237" height="175" key="GridCell.Tab.0.right" timestamp="1588595275113">
+    <state width="1237" height="174" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588597632615" />
+    <state width="1237" height="174" key="GridCell.Tab.0.left" timestamp="1588597632615">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588595275113" />
+    <state width="1237" height="174" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588597632615" />
+    <state width="1237" height="174" key="GridCell.Tab.0.right" timestamp="1588597632615">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="174" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588597632615" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1588597522020">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1588597522020" />
   </component>
 </project>

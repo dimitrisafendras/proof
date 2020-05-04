@@ -1,0 +1,6 @@
+.Text {
+    grid-area: text;
+    background-color: green;
+    height: fit-content;
+    align-self: end;
+}
