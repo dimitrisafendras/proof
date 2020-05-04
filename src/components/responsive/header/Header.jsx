@@ -6,7 +6,7 @@ export const Header = ({}) => {
 	return (
 		<div className='Header'>
 			<Link to="/">ProductList</Link>
-			<Link to="/CategoryNavLayout">CategoryNavLayout</Link>
+			<Link to="/CategoryNav">CategoryNav</Link>
 		</div>
 	);
 };

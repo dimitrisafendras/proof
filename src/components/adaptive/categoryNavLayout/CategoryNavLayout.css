@@ -1,5 +1,4 @@
 .CategoryNavLayout {
-    height: 100px;
-    width: 100px;
+    grid-area: main;
     background-color: red;
 }

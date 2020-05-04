@@ -5,7 +5,7 @@ import {
   BrowserRouter as Router,
   Route,
 } from "react-router-dom";
-import {AppLayout, Header, Main, Sidebar} from './components';
+import {AppLayout, Header, Sidebar} from './components';
 import {routes} from './routes';
 
 export default function App() {
@@ -14,7 +14,6 @@ export default function App() {
       <AppLayout>
         <Header/>
         <Sidebar/>
-        <Main>
         {map(routes, (page, url) =>
           <Route exact
                  path={url}
@@ -22,7 +21,6 @@ export default function App() {
                  key={v1()}
           />
         )}
-        </Main>
       </AppLayout>
     </Router>
   );

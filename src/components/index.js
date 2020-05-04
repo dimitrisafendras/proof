@@ -1,3 +1,3 @@
 export { AppLayout, CategoryNavLayout, ProductListLayout } from './adaptive';
-export { Header, Main, Sidebar } from './responsive';
+export { Header, Sidebar } from './responsive';
 

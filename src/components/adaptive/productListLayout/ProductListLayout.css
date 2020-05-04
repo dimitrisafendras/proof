@@ -1,5 +1,5 @@
 .ProductListLayout {
-    height: 100px;
-    width: 100px;
-    background-color: purple;
+    grid-area: main;
+    background-color: orange;
+    display: grid;
 }
