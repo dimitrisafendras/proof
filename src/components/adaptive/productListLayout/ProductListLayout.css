@@ -1,6 +1,5 @@
 .ProductListLayout {
     padding: 16px 24px;
-
     grid-area: main;
     background-color: orange;
     display: grid;
@@ -29,11 +28,23 @@
 .Filters {
     background-color: magenta;
     grid-area: filters;
+    overflow-y: auto;
+}
+
+.Filter {
+    background-color: orangered;
+    height: 1000px;
 }
 
 .Products {
     background-color: deepskyblue;
     grid-area: products;
+    overflow-y: auto;
+}
+
+.Product {
+    background-color: black;
+    height: 1000px;
 }
 
 .MoreFilters {
