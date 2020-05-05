@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/main/Main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/main/Main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/responsive/main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myBoilerPlate" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -100,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588613847395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor">
+      <created>1588615313813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588615313813</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,25 +118,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Scopes/0.0.1280.720@0.0.1280.720" timestamp="1588608499205" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588613846941">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1588615313375">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588613846941" />
-    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1588601370864">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588615313375" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1588618213311">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588601370864" />
-    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1588613850189">
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588618213311" />
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2" timestamp="1588615324479">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1588613850189" />
+    <state x="233" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1588615324479" />
+    <state x="336" y="92" width="609" height="536" key="find.popup" timestamp="1588618206443">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="336" y="92" width="609" height="536" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1588618206443" />
     <state x="297" y="161" key="run.anything.popup" timestamp="1588604351233">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1588604351233" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1588606831650">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1588618033244">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1588606831650" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1588618033244" />
   </component>
 </project>

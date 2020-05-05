@@ -1,5 +1,36 @@
 .ProductListLayout {
+    padding: 16px 24px 0;
+
     grid-area: main;
     background-color: orange;
     display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 16px 24px auto;
+    column-gap: 24px;
+    row-gap: 16px;
+
+    grid-template-areas:
+            "breadcrumb breadcrumb breadcrumb breadcrumb"
+            "title title title title"
+            "filters products products products";
+}
+
+.Breadcrumb {
+    background-color: greenyellow;
+    grid-area: breadcrumb;
+}
+
+.Title {
+    background-color: aqua;
+    grid-area: title;
+}
+
+.Filters {
+    background-color: magenta;
+    grid-area: filters;
+}
+
+.Products {
+    background-color: deepskyblue;
+    grid-area: products;
 }
