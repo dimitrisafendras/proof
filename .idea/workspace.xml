@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
+    <list default="true" id="68b5d83b-fe5c-454e-aeb4-c934f3a2953f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.jsx" afterDir="false" />
@@ -48,6 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myBoilerPlate" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -158,22 +159,26 @@
     </state>
     <state x="674" y="184" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588666884656" />
     <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588601370864" />
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom" timestamp="1588667336361">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1588679654438">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
-    <state width="2005" height="318" key="GridCell.Tab.0.center" timestamp="1588667336361">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588679654438" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1588679654438">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
-    <state width="2005" height="318" key="GridCell.Tab.0.left" timestamp="1588667336361">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588679654438" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1588679654437">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
-    <state width="2005" height="318" key="GridCell.Tab.0.right" timestamp="1588667336361">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588679654437" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1588679654438">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588679654438" />
     <state x="737" y="292" key="MultipleFileMergeDialog" timestamp="1588665339946">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -194,9 +199,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1588604351233" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1588606831650">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1588679637762">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1588606831650" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1588679637762" />
   </component>
 </project>

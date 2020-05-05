@@ -13,20 +13,33 @@
 .Bg {
     background-color: grey;
     grid-area: bg;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.ItemsContainer {
+.Items {
     grid-area: items;
-    overflow-y: auto;
     background-color: white;
-    display: grid;
-    grid-template-columns: repeat(6, minmax(100px, 100px));
-    grid-template-rows: repeat(auto-fill, minmax(100px, 100px));
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
     justify-content: center;
-    align-content: center;
-    grid-gap: 24px;
+    align-items: center;
 }
 
 .Item {
     background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 12px;
+}
+
+.MiddleBox {
+    width: 522px;
+    height: 44px;
+    background-color: purple;
+    position: absolute;
+    bottom: -10px;
 }
