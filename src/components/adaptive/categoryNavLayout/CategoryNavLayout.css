@@ -27,6 +27,7 @@
     overflow-y: auto;
     justify-content: center;
     align-items: center;
+    align-content: center;
 }
 
 .Item {
@@ -41,5 +42,5 @@
     height: 44px;
     background-color: purple;
     position: absolute;
-    bottom: -10px;
+    bottom: -22px;
 }
