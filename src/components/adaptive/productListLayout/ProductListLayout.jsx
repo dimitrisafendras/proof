@@ -6,9 +6,8 @@ export const ProductListLayout = ({}) => {
 		<div className='ProductListLayout'>
 			<div className='Breadcrumb'></div>
 			<div className='Title'></div>
-			<div className='Filters'>
-				<div style={{height: '1000px'}}></div>
-			</div>
+			<div className='Filters'></div>
+			<div className='MoreFilters'></div>
 			<div className='Products'></div>
 		</div>
 	);
