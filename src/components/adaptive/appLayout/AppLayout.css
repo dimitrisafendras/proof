@@ -1,6 +1,7 @@
 .AppLayout {
     display: grid;
     grid-template-columns: 72px auto;
+    /*calc is needed for main contents height*/
     grid-template-rows: 48px calc(100vh - 48px);
     grid-template-areas:
             "sidebar header"

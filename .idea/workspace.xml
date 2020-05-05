@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="refactor">
+    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/appLayout/AppLayout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/productListLayout/ProductListLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1588666162363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished">
+      <created>1588670881163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588670881163</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="components architecture and router" />
     <MESSAGE value="main page layout" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Scopes" timestamp="1588608499205">
@@ -134,10 +139,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588665263616" />
-    <state x="424" y="0" key="CommitChangelistDialog2" timestamp="1588670863418">
+    <state x="424" y="0" key="CommitChangelistDialog2" timestamp="1588670935339">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="424" y="0" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588670863418" />
+    <state x="424" y="0" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588670935339" />
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588613846941" />
     <state x="674" y="184" key="FileChooserDialogImpl" timestamp="1588666884656">
       <screen x="0" y="0" width="2048" height="1152" />
