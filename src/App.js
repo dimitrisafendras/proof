@@ -5,15 +5,15 @@ import {
   BrowserRouter as Router,
   Route,
 } from "react-router-dom";
-import {AppLayout, Header, Sidebar} from './components';
+import {AppLayout, HeaderWithGridArea, SidebarWithGridArea} from './components';
 import {routes} from './routes';
 
 export default function App() {
   return (
     <Router>
       <AppLayout>
-        <Header/>
-        <Sidebar/>
+        <HeaderWithGridArea area={'header'}/>
+        <SidebarWithGridArea area={'sidebar'}/>
         {map(routes, (page, url) =>
           <Route exact
                  path={url}

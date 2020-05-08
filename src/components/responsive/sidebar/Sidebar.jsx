@@ -1,9 +1,9 @@
 import React from 'react';
 import './Sidebar.css';
 
-export const Sidebar = ({}) => {
+export const Sidebar = ({area}) => {
 	return (
-		<div className='Sidebar'>
+		<div className='Sidebar' style={{gridArea: area}}>
 		</div>
 	);
 };

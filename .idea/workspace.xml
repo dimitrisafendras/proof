@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="progress on cat nav">
+    <list default="true" id="53be539d-b85f-464c-a370-c9020fdf3971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/hocs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hocs/withGridArea/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hocs/withGridArea/withGridArea.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/responsive/componentsWithGridArea/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/adaptive/categoryNavLayout/CategoryNavLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/responsive/sidebar/Sidebar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="React File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -166,31 +176,35 @@
     <state x="-1522" y="0" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.2048.1152@-1920.0.1920.1080" timestamp="1588685257771" />
     <state x="424" y="0" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588677325735" />
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1588613846941" />
+    <state x="117" y="29" key="DiffContextDialog" timestamp="1588932922266">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="117" y="29" key="DiffContextDialog/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588932922266" />
     <state x="674" y="184" key="FileChooserDialogImpl" timestamp="1588666884656">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="674" y="184" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588666884656" />
     <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588601370864" />
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom" timestamp="1588677362757">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="2005" height="276" key="GridCell.Tab.0.bottom" timestamp="1588933974709">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.2048.1152@-1920.0.1920.1080" timestamp="1588677362757" />
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
-    <state width="2005" height="318" key="GridCell.Tab.0.center" timestamp="1588677362757">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="2005" height="276" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588933974709" />
+    <state width="2005" height="276" key="GridCell.Tab.0.center" timestamp="1588933974709">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.2048.1152@-1920.0.1920.1080" timestamp="1588677362757" />
-    <state width="2005" height="318" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
-    <state width="2005" height="318" key="GridCell.Tab.0.left" timestamp="1588677362757">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="2005" height="276" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588933974709" />
+    <state width="2005" height="276" key="GridCell.Tab.0.left" timestamp="1588933974709">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.2048.1152@-1920.0.1920.1080" timestamp="1588677362757" />
-    <state width="2005" height="318" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
-    <state width="2005" height="318" key="GridCell.Tab.0.right" timestamp="1588677362757">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state width="2005" height="276" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588933974709" />
+    <state width="2005" height="276" key="GridCell.Tab.0.right" timestamp="1588933974709">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="2005" height="318" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.2048.1152@-1920.0.1920.1080" timestamp="1588677362757" />
-    <state width="2005" height="318" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588667336361" />
+    <state width="2005" height="276" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588933974709" />
     <state x="-1229" y="274" key="MultipleFileMergeDialog" timestamp="1588685149246">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -200,10 +214,11 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="695" y="275" key="NewModule_or_Project.wizard/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588666920715" />
-    <state x="-1199" y="215" key="RollbackChangesDialog" timestamp="1588685139192">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="769" y="229" key="RollbackChangesDialog" timestamp="1588932923052">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="-1199" y="215" key="RollbackChangesDialog/-1920.0.1920.1080/0.0.2048.1152@-1920.0.1920.1080" timestamp="1588685139192" />
+    <state x="769" y="229" key="RollbackChangesDialog/-1920.0.1920.1080/0.0.2048.1152@0.0.2048.1152" timestamp="1588932923052" />
     <state x="373" y="131" key="Vcs.Push.Dialog.v2" timestamp="1588677328077">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>

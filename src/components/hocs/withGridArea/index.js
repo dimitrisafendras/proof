@@ -1,0 +1,2 @@
+export { withGridArea } from './withGridArea';
+
